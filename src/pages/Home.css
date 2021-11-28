@@ -1,0 +1,10 @@
+body {
+    background-image: url('../images/concert-scene.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: darkorange;
+    /* background-position: 50% 50%; */
+    min-width: 100%;
+    min-height: 100%;
+    color:darkgray;
+}
